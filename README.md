@@ -134,37 +134,3 @@ If you want to use development versions of the Dockerfiles, you need to setup do
 * [Docker](https://www.docker.com/) - Containerized Apps
 * [Docker Compose](https://docs.docker.com/compose/) -  Running multi-container Docker applications
 
-
-
-
-
-## Known Bugs and Issues
-
-* CORS filter allows requests from every url.
-* You might be interested is not functional at this version.
-* Sometimes when you refresh the page loading cart stucks.
-* No admin panel at all as of yet.
-* Shipping status only supports packaging and shipped ( 0-1 )
-* No cargo firm selecting when purchasing.
-* Mobile devices are not supported, yet. Contributons are welcome!
-
-## Contributing
-
-If you want to contribute to this project you can email me - antkaynak1@gmail.com or you can pull request.
-
-## Versioning
-
-This project does not have versioning and made with learning purposes.
-
-
-## Authors 
-
-* **Ant Kaynak** - *Initial work* - [Github](https://github.com/antkaynak)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/antkaynak/Keyist-Ecommerce/blob/master/LICENSE) for details.
-
-# Questions
-If you have any questions mail me -  antkaynak1@gmail.com
-
